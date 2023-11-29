@@ -1,0 +1,38 @@
+{
+  "name": "devtalenthub",
+  "version": "1.0.0",
+  "description": "Portal DevTalentHub con NodeJS, Handlebars, Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -L ./index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IP-Proyectos-y-Soluciones/DevTalentHub.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "Mongoose",
+    "Handlebars",
+    "MVC",
+    "Node",
+    "Express",
+    "Axios",
+    "Webpack",
+    "Multer",
+    "Nodemailer"
+  ],
+  "author": "Bladimir G. Parra B. | IP Proyectos y Soluciones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IP-Proyectos-y-Soluciones/DevTalentHub/issues"
+  },
+  "homepage": "https://github.com/IP-Proyectos-y-Soluciones/DevTalentHub#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
